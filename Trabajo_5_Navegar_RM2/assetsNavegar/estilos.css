@@ -1,0 +1,16 @@
+.link {
+    font-size: large;
+    font-family: sans-serif;
+    color: aliceblue;
+    cursor: pointer;
+    padding: 20px;
+    list-style: none;
+}
+
+.apagar {
+    display: none;
+}
+
+.prender {
+    display: none;
+}

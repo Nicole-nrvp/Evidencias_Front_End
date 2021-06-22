@@ -1,0 +1,37 @@
+*{
+	padding: 2%;
+	margin: 0px;
+	font-family: cursive;
+    justify-content: center;
+    
+}
+
+.conCalculadora{
+    margin: auto;
+ 	width:50%;
+ 	height:auto;
+ 	background-color:#DDF5F9  ;
+ 	opacity: 0.9;
+ 	border: 5px solid #010c0e ;
+ 	border-radius: 1%;
+    padding: 20px;
+    align-items: center;
+}
+.textResultado{
+    background-color: #ffffff;
+    height: 20px;
+    width: 70%;
+    border: 1px solid #010c0e;  
+}
+.conteValores{
+    justify-content: space-between;
+    margin-top: 15px;
+
+}
+.conBotones{
+    justify-content: space-between;
+}
+
+.btnBotones{
+    padding: 10px;
+}
